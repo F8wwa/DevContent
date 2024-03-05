@@ -2,5 +2,8 @@
 ### Here you will find open-source content for solo game development!
 
 ## Support Languagues
-- [PT-BR](https://github.com/F8wwa)
-- [EN-US](https://github.com/F8wwa)
+- [PT-BR]()
+- [EN-US]()
+## Featured Contents
+- [EasySprites]()
+- [JetColors]()
