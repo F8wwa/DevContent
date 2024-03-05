@@ -2,8 +2,8 @@
 ### Here you will find open-source content for solo game development!
 
 ## Support Languagues
-- [PT-BR]()
-- [EN-US]()
+- [PT-BR](https://github.com/F8wwa/DevContent/LEIAME.md)
+- [EN-US](https://github.com/F8wwa/DevContent/README.md) -- In here.
 ## Featured Contents
 - [EasySprites]()
 - [JetColors]()
